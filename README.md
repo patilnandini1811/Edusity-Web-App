@@ -1,1 +1,1 @@
-# edusity-Web-App
+# Edusity-Web-App
