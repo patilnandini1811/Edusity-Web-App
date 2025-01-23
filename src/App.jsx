@@ -1,5 +1,6 @@
 import './App.css'
 import About from './components/About/About'
+import Campus from './components/Campus/Campus'
 import Hero from './components/Hero/Hero'
 import Navbar from './components/Navbar/Navbar'
 import Program from './components/program/Program'
@@ -17,7 +18,8 @@ function App() {
       <Title subTitle='Our Programs' title='What we offer'/>
      <Program/>
      <About/>
-      
+     <Title subTitle='Gallery' title='Campus Photos'/>
+      <Campus/>
       </div>
       </div>
       
